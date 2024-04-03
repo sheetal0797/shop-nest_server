@@ -1,0 +1,5 @@
+package com.shopnest.request;
+
+public class LoginRequest {
+
+}

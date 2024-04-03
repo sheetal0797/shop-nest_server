@@ -1,0 +1,5 @@
+package com.shopnest.response;
+
+public class AuthResponse {
+
+}
