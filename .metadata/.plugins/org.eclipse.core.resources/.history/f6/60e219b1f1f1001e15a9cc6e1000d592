@@ -1,0 +1,14 @@
+spring.application.name=shop-nest
+server.port=5454
+
+
+spring.datasource.url=jdbc:mysql://${DB_HOST:localhost}:${DB_PORT:3306}/${DB_NAME:shopnest}
+spring.datasource.username=root
+spring.datasource.password=DB_PASSWORD
+spring.datasource.driver-class-name=com.mysql.cj.jdbc.Driver
+
+spring.jpa.hibernate.ddl-auto=update
+spring.jpa.show-sql: true
+
+razorpay.api.key=rzp_test_6CKDa3nxfXcMf5
+razorpay.api.secret=GST6zg0MuBnO9vS5cd09lKzu

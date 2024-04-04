@@ -1,5 +1,0 @@
-package com.shopnest.config;
-
-public class JwtTokenProvider {
-
-}
